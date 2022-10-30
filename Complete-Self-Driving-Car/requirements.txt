@@ -1,8 +1,0 @@
-opencv-contrib-python
-numpy
-matplotlib
-tensorflow
-keras
-python-socketio
-Flask
-eventlet
