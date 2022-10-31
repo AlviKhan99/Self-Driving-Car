@@ -10,7 +10,7 @@
 Download the Udacity Self-Driving Car Simulator using the following link:
 
 ```bash
-[Click Here](https://github.com/udacity/self-driving-car-sim)
+[Repo link](https://github.com/udacity/self-driving-car-sim)
 ```
 
 # Step 02:
