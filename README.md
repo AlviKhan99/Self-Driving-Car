@@ -6,7 +6,7 @@
 https://www.linkedin.com/feed/update/urn:li:activity:6992670134557425664/
 ```
 
-#Step 01:
+# Step 01:
 Download the Udacity Self-Driving Car Simulator using the following link:
 
 ```bash
