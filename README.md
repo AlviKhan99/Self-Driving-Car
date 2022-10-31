@@ -3,7 +3,7 @@
 # Live Demo Video Link:
 
 ```bash
-(Click Here)[https://www.linkedin.com/feed/update/urn:li:activity:6992670134557425664/]
+https://www.linkedin.com/feed/update/urn:li:activity:6992670134557425664/
 ```
 
 # Step 01:
